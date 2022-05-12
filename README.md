@@ -7,6 +7,8 @@
 
 - 👨‍💻 I’m currently work on my project [bestdrop.io](https://bestdrop.io/)
 
+- 🇺🇦 NO WAR
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ruslan-saifullin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruslan-saifullin" height="30" width="40" /></a>
