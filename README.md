@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for [indoleads.com](https://indoleads.com/)
 
-- 🌱 I’m currently improve my knowledge in **Golang**
+- 🌱 I’m currently improving my knowledge in **Golang**
 
 - 👨‍💻 I’m currently work on my project [bestdrop.io](https://bestdrop.io/)
 
