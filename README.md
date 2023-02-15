@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently improving my knowledge in **Golang**
 
-- 👨‍💻 I’m currently work on my project [bestdrop.io](https://bestdrop.io/)
-
 - 🇺🇦 #StandWithUkraine
 
 <h3 align="left">Connect with me:</h3>
